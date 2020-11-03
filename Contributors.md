@@ -81,6 +81,7 @@ Pooja Muthalik
 - [Khalid Francis] (https://github.com/KHALIDFRANCIS)
 - AARA
 - [JAGCV] (https://github.com/joseagcv)
+- [Isa] (https://github.com/Isa0801)
 - [Sanidhya Gupta] (http://github.com/sanidhyag1)
 - [Douglas McWherter] (https://github.com/teserve)
 - [Jake Thomas] (https://github.com/jakesock)
